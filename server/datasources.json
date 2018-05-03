@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mLab": {
+    "host": "",
+    "port": 0,
+    "url": "mongodb://Nara77:na123456@ds011399.mlab.com:11399/ionicapp",
+    "database": "",
+    "password": "",
+    "name": "mLab",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
